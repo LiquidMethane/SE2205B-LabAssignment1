@@ -92,7 +92,7 @@ public class Assignment1 {
 
     public int[][] readMatrix(String filename, int n) throws Exception {
         String cwd = System.getProperty("user.dir");
-        File inFile = new File(cwd + "\\src\\" + filename);
+        File inFile = new File(cwd + "\\" + filename);
         Scanner sc = new Scanner(inFile);
         int retMatrix[][] = initMatrix(n);
         while (sc.hasNextInt())

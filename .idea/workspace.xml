@@ -9,31 +9,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/code/Assignment1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/code/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>size / 2</find>
@@ -53,11 +28,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-25" />
-    <option name="y" value="-25" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-26" />
+    <option name="y" value="-26" />
     <option name="width" value="1470" />
-    <option name="height" value="2545" />
+    <option name="height" value="2546" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -72,17 +47,6 @@
             <path>
               <item name="SE2205B-LabAssignment1" type="b2602c69:ProjectViewProjectNode" />
               <item name="SE2205B-LabAssignment1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SE2205B-LabAssignment1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SE2205B-LabAssignment1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SE2205B-LabAssignment1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SE2205B-LabAssignment1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="code" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,17 +117,18 @@
       <workItem from="1549316320082" duration="1029000" />
       <workItem from="1549326813156" duration="11644000" />
       <workItem from="1549340299411" duration="11000" />
+      <workItem from="1549908293396" duration="46000" />
+      <workItem from="1549908380414" duration="45000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15703000" />
+    <option name="totallyTimeSpent" value="15794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.108391605" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13681027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -172,7 +137,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32997987" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32980132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -292,7 +257,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
